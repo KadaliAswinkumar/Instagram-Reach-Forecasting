@@ -11,5 +11,4 @@ This predictive insight ultimately leads to enhanced engagement, improved perfor
 
 # Further Queries feel free to contact kadaliaswinkumar@gmail.com
 
-# For more such Machine learning and Data Science stuff follow me 
-# Linkedin : kadaliaswinkumar
+# For more such Machine learning and Data Science stuff follow me
